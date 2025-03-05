@@ -21,7 +21,7 @@ Este curso te guiará paso a paso para crear una aplicación backend en **TypeSc
 4. Módulo 4: Instalar y Configurar TypeORM + PostgreSQL
 5. Módulo 5: Creación de Entidad y Tablas
 6. Módulo 6: Configurar un Servidor Express
-7. Módulo 7: CRUD con TypeORM y Expres
+7. Módulo 7: CRUD con TypeORM y Express
 8. Módulo 8: Testing y Debugging
 
 ## Requisitos Previos
