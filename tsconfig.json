@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "lib": ["ES2024", "DOM", "DOM.Iterable"],
+      "target": "ES2024",
+      "module": "NodeNext",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "noImplicitAny": true
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "dist"]
+  }
