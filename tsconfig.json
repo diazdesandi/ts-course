@@ -3,11 +3,14 @@
       "lib": ["ES2024", "DOM", "DOM.Iterable"],
       "target": "ES2024",
       "module": "NodeNext",
+      "moduleResolution": "NodeNext",
       "strict": true,
       "esModuleInterop": true,
       "skipLibCheck": true,
       "forceConsistentCasingInFileNames": true,
-      "noImplicitAny": true
+      "noImplicitAny": true,
+      "allowImportingTsExtensions": true,
+      "noEmit": true
     },
     "include": ["src/**/*"],
     "exclude": ["node_modules", "dist"]
